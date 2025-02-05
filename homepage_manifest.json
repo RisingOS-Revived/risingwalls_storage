@@ -2,16 +2,16 @@
 	"target-level": 1,
 	"target-sublevel": 0,
 	"images": [{
-			"image": "https://raw.githubusercontent.com/RisingTechOSS/risingwalls_storage/fourteen/homepage/from_gallery.webp"
+			"image": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/homepage/from_gallery.webp"
 		},
 		{
-			"image": "https://raw.githubusercontent.com/RisingTechOSS/risingwalls_storage/fourteen/homepage/live_wallpapers.webp"
+			"image": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/homepage/live_wallpapers.webp"
 		},
 		{
-			"image": "https://raw.githubusercontent.com/RisingTechOSS/risingwalls_storage/fourteen/homepage/rising_wallpapers.webp"
+			"image": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/homepage/rising_wallpapers.webp"
 		},
 		{
-			"image": "https://raw.githubusercontent.com/RisingTechOSS/risingwalls_storage/fourteen/homepage/depth_wallpapers.jpg"
+			"image": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/homepage/depth_wallpapers.jpg"
 		}
 	],
 	"contributors": [
