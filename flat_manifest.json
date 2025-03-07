@@ -1,63 +1,700 @@
 {
-	"wallpapers": [{
-		"title": "Dark Porcelain",
-		"author": "Google",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/porcelain_dark_thumbnail.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/porcelain_dark.webp"
-	}, {
-		"title": "Purple Remix",
-		"author": "Ayan",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/purple_remix_thumbnail.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/purple_remix.webp"
-	}, {
-		"title": "Macapuno",
-		"author": "Aedrian",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/riseandbloom.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/riseandbloom.webp"
-	}, {
-		"title": "Obattu",
-		"author": "Chevanon Photography",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/obattu.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/obattu.webp"
-	}, {
-		"title": "Paella",
-		"author": "Maddy Freddie",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/blossoming_orange_flower_on_meadow.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/blossoming_orange_flower_on_meadow.webp"
-	}, {
-		"title": "Blazing Paella",
-		"author": "Midjourney & Ayan",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/paella1.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/paella1.webp"
-	}, {
-		"title": "Rice and slice",
-		"author": "Midjourney & Ayan",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/paella2.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/paella2.webp"
-	}, {
-		"title": "Paella",
-		"author": "Maddy Freddie",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/blossoming_orange_flower_on_meadow.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/blossoming_orange_flower_on_meadow.webp"
-	}, {
-		"title": "Chocolate Creme",
-		"author": "AmaanCG",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/wf_chocolate_creme.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/wf_chocolate_creme.webp"
-	}, {
-		"title": "Orange Oracle",
-		"author": "AmaanCG",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/wf_orange_oracle.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/wf_orange_oracle.webp"
-	}, {
-		"title": "Pink Plush",
-		"author": "AmaanCG",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/wf_pink_plush.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/wf_pink_plush.webp"
-	}, {
-		"title": "Yellow Yard",
-		"author": "AmaanCG",
-		"thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/thumbnails/wf_yellow_yard.webp",
-		"wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/risingwalls_storage/fifteen/flat/wf_yellow_yard.webp"
-	}]
-} 
+  "wallpapers": [
+    {
+      "title": "Ambra",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Ambra.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Ambra.webp"
+    },
+    {
+      "title": "Azunim",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Azunim.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Azunim.webp"
+    },
+    {
+      "title": "Nexul",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Nexul.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Nexul.webp"
+    },
+    {
+      "title": "Orbique",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Orbique.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Orbique.webp"
+    },
+    {
+      "title": "Rubrane",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Rubrane.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Rubrane.webp"
+    },
+    {
+      "title": "Ruxe",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Ruxe.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Ruxe.webp"
+    },
+    {
+      "title": "Virmar",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Virmar.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/Virmar.webp"
+    },
+    {
+      "title": "amethyst_licorice_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/amethyst_licorice_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/amethyst_licorice_dark.webp"
+    },
+    {
+      "title": "amethyst_licorice_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/amethyst_licorice_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/amethyst_licorice_light.webp"
+    },
+    {
+      "title": "barite_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/barite_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/barite_dark.webp"
+    },
+    {
+      "title": "barite_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/barite_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/barite_light.webp"
+    },
+    {
+      "title": "black_licorice_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/black_licorice_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/black_licorice_dark.webp"
+    },
+    {
+      "title": "black_licorice_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/black_licorice_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/black_licorice_light.webp"
+    },
+    {
+      "title": "blossoming_orange_flower_on_meadow",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/blossoming_orange_flower_on_meadow.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/blossoming_orange_flower_on_meadow.webp"
+    },
+    {
+      "title": "c10-haze-dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-haze-dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-haze-dark.webp"
+    },
+    {
+      "title": "c10-haze-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-haze-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-haze-light.webp"
+    },
+    {
+      "title": "c10-obsidian-dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-obsidian-dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-obsidian-dark.webp"
+    },
+    {
+      "title": "c10-obsidian-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-obsidian-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-obsidian-light.webp"
+    },
+    {
+      "title": "c10-snow-dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-snow-dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-snow-dark.webp"
+    },
+    {
+      "title": "c10-snow-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-snow-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/c10-snow-light.webp"
+    },
+    {
+      "title": "calcite_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/calcite_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/calcite_dark.webp"
+    },
+    {
+      "title": "calcite_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/calcite_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/calcite_light.webp"
+    },
+    {
+      "title": "cmf_wall_1",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/cmf_wall_1.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/cmf_wall_1.webp"
+    },
+    {
+      "title": "cmf_wall_2",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/cmf_wall_2.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/cmf_wall_2.webp"
+    },
+    {
+      "title": "cmf_wall_3",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/cmf_wall_3.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/cmf_wall_3.webp"
+    },
+    {
+      "title": "cmf_wall_4",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/cmf_wall_4.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/cmf_wall_4.webp"
+    },
+    {
+      "title": "community_wallpaper1",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper1.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper1.webp"
+    },
+    {
+      "title": "community_wallpaper2",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper2.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper2.webp"
+    },
+    {
+      "title": "community_wallpaper3",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper3.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper3.webp"
+    },
+    {
+      "title": "community_wallpaper4",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper4.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper4.webp"
+    },
+    {
+      "title": "community_wallpaper5",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper5.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper5.webp"
+    },
+    {
+      "title": "community_wallpaper6",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper6.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/community_wallpaper6.webp"
+    },
+    {
+      "title": "danburite_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/danburite_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/danburite_dark.webp"
+    },
+    {
+      "title": "danburite_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/danburite_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/danburite_light.webp"
+    },
+    {
+      "title": "dark_rising",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/dark_rising.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/dark_rising.webp"
+    },
+    {
+      "title": "dioptase_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/dioptase_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/dioptase_dark.webp"
+    },
+    {
+      "title": "dioptase_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/dioptase_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/dioptase_light.webp"
+    },
+    {
+      "title": "emerald_jade_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/emerald_jade_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/emerald_jade_dark.webp"
+    },
+    {
+      "title": "emerald_jade_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/emerald_jade_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/emerald_jade_light.webp"
+    },
+    {
+      "title": "googlewp_community_one",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/googlewp_community_one.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/googlewp_community_one.webp"
+    },
+    {
+      "title": "googlewp_curated_one",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/googlewp_curated_one.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/googlewp_curated_one.webp"
+    },
+    {
+      "title": "googlewp_curated_three",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/googlewp_curated_three.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/googlewp_curated_three.webp"
+    },
+    {
+      "title": "googlewp_curated_two",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/googlewp_curated_two.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/googlewp_curated_two.webp"
+    },
+    {
+      "title": "haze_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/haze_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/haze_dark.webp"
+    },
+    {
+      "title": "haze_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/haze_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/haze_light.webp"
+    },
+    {
+      "title": "hellebores-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/hellebores-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/hellebores-light.webp"
+    },
+    {
+      "title": "hellebores",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/hellebores.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/hellebores.webp"
+    },
+    {
+      "title": "ilvaite_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/ilvaite_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/ilvaite_dark.webp"
+    },
+    {
+      "title": "ilvaite_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/ilvaite_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/ilvaite_light.webp"
+    },
+    {
+      "title": "jade_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/jade_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/jade_dark.webp"
+    },
+    {
+      "title": "jade_dark9",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/jade_dark9.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/jade_dark9.webp"
+    },
+    {
+      "title": "jade_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/jade_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/jade_light.webp"
+    },
+    {
+      "title": "jade_light9",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/jade_light9.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/jade_light9.webp"
+    },
+    {
+      "title": "kailash_1",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/kailash_1.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/kailash_1.webp"
+    },
+    {
+      "title": "kailash_2",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/kailash_2.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/kailash_2.webp"
+    },
+    {
+      "title": "kailash_3",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/kailash_3.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/kailash_3.webp"
+    },
+    {
+      "title": "licorice_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/licorice_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/licorice_dark.webp"
+    },
+    {
+      "title": "n2ap_wall1",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall1.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall1.webp"
+    },
+    {
+      "title": "n2ap_wall2",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall2.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall2.webp"
+    },
+    {
+      "title": "n2ap_wall3",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall3.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall3.webp"
+    },
+    {
+      "title": "n2ap_wall4",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall4.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall4.webp"
+    },
+    {
+      "title": "n2ap_wall5",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall5.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall5.webp"
+    },
+    {
+      "title": "n2ap_wall6",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall6.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/n2ap_wall6.webp"
+    },
+    {
+      "title": "nata_de_coco",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nata_de_coco.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nata_de_coco.webp"
+    },
+    {
+      "title": "nt_wallpaper_argesi_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_argesi_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_argesi_dark.webp"
+    },
+    {
+      "title": "nt_wallpaper_argesi_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_argesi_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_argesi_light.webp"
+    },
+    {
+      "title": "nt_wallpaper_emyl_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_emyl_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_emyl_dark.webp"
+    },
+    {
+      "title": "nt_wallpaper_emyl_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_emyl_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_emyl_light.webp"
+    },
+    {
+      "title": "nt_wallpaper_flower_green_glass",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_flower_green_glass.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_flower_green_glass.webp"
+    },
+    {
+      "title": "nt_wallpaper_flower_orange_glass",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_flower_orange_glass.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_flower_orange_glass.webp"
+    },
+    {
+      "title": "nt_wallpaper_fottse_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_fottse_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_fottse_dark.webp"
+    },
+    {
+      "title": "nt_wallpaper_fottse_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_fottse_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_fottse_light.webp"
+    },
+    {
+      "title": "nt_wallpaper_hazy_flower_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_hazy_flower_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_hazy_flower_dark.webp"
+    },
+    {
+      "title": "nt_wallpaper_hazy_flower_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_hazy_flower_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_hazy_flower_light.webp"
+    },
+    {
+      "title": "nt_wallpaper_octopus_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_octopus_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_octopus_dark.webp"
+    },
+    {
+      "title": "nt_wallpaper_octopus_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_octopus_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/nt_wallpaper_octopus_light.webp"
+    },
+    {
+      "title": "obattu",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/obattu.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/obattu.webp"
+    },
+    {
+      "title": "obsidian_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/obsidian_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/obsidian_dark.webp"
+    },
+    {
+      "title": "obsidian_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/obsidian_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/obsidian_light.webp"
+    },
+    {
+      "title": "p10-lemongrass-dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-lemongrass-dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-lemongrass-dark.webp"
+    },
+    {
+      "title": "p10-lemongrass-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-lemongrass-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-lemongrass-light.webp"
+    },
+    {
+      "title": "p10-obsidian-dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-obsidian-dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-obsidian-dark.webp"
+    },
+    {
+      "title": "p10-obsidian-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-obsidian-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-obsidian-light.webp"
+    },
+    {
+      "title": "p10-snow-dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-snow-dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-snow-dark.webp"
+    },
+    {
+      "title": "p10-snow-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-snow-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p10-snow-light.webp"
+    },
+    {
+      "title": "p8-emerald-dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-emerald-dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-emerald-dark.webp"
+    },
+    {
+      "title": "p8-emerald-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-emerald-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-emerald-light.webp"
+    },
+    {
+      "title": "p8-licorice-dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-licorice-dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-licorice-dark.webp"
+    },
+    {
+      "title": "p8-licorice-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-licorice-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-licorice-light.webp"
+    },
+    {
+      "title": "p8-porcelain-dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-porcelain-dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-porcelain-dark.webp"
+    },
+    {
+      "title": "p8-porcelain-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-porcelain-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-porcelain-light.webp"
+    },
+    {
+      "title": "p8-sky-dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-sky-dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-sky-dark.webp"
+    },
+    {
+      "title": "p8-sky-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-sky-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/p8-sky-light.webp"
+    },
+    {
+      "title": "paella1",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/paella1.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/paella1.webp"
+    },
+    {
+      "title": "paella2",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/paella2.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/paella2.webp"
+    },
+    {
+      "title": "peony_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/peony_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/peony_dark.webp"
+    },
+    {
+      "title": "peony_dark9",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/peony_dark9.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/peony_dark9.webp"
+    },
+    {
+      "title": "peony_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/peony_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/peony_light.webp"
+    },
+    {
+      "title": "peony_light9",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/peony_light9.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/peony_light9.webp"
+    },
+    {
+      "title": "persian-light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/persian-light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/persian-light.webp"
+    },
+    {
+      "title": "persian",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/persian.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/persian.webp"
+    },
+    {
+      "title": "pitch_black_remix",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/pitch_black_remix.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/pitch_black_remix.webp"
+    },
+    {
+      "title": "porcelain_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/porcelain_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/porcelain_dark.webp"
+    },
+    {
+      "title": "porcelain_dark9",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/porcelain_dark9.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/porcelain_dark9.webp"
+    },
+    {
+      "title": "porcelain_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/porcelain_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/porcelain_light.webp"
+    },
+    {
+      "title": "porcelain_light9",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/porcelain_light9.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/porcelain_light9.webp"
+    },
+    {
+      "title": "porcelain_white",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/porcelain_white.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/porcelain_white.webp"
+    },
+    {
+      "title": "premium_hazel_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_hazel_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_hazel_dark.webp"
+    },
+    {
+      "title": "premium_hazel_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_hazel_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_hazel_light.webp"
+    },
+    {
+      "title": "premium_obsidian_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_obsidian_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_obsidian_dark.webp"
+    },
+    {
+      "title": "premium_obsidian_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_obsidian_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_obsidian_light.webp"
+    },
+    {
+      "title": "premium_porcelain_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_porcelain_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_porcelain_dark.webp"
+    },
+    {
+      "title": "premium_porcelain_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_porcelain_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_porcelain_light.webp"
+    },
+    {
+      "title": "premium_rose_dark",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_rose_dark.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_rose_dark.webp"
+    },
+    {
+      "title": "premium_rose_light",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_rose_light.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/premium_rose_light.webp"
+    },
+    {
+      "title": "purple_remix",
+      "author": "Arman",
+      "thumbnail": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/purple_remix.webp",
+      "wallpaper": "https://raw.githubusercontent.com/RisingOS-Revived/android_packages_apps_Backgrounds/refs/heads/fifteen/res_walls/drawable-nodpi/purple_remix.webp"
+    }
+  ]
+}
